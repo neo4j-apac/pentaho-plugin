@@ -1,0 +1,1 @@
+Copy the license file to the directory: ..\pentaho-server\pentaho-solutions\system\datafor
