@@ -1,0 +1,5 @@
+1. pentaho mondrian MDX语法说明文档（供页面、模型上创建计算指标时使用）
+http://www-master.ufr-info-p6.jussieu.fr/2009/Ext/naacke/mondrian/doc/mdx.html
+
+2. pentaho mondrian技术说明文档（包括mondrian引擎配置、数据权限、缓存控制等等）
+https://mondrian.pentaho.com/documentation/configuration.php
